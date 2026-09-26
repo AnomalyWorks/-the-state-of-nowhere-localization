@@ -7764,3 +7764,32 @@ Codigo de ciudad
 <<<
 Este codigo representa la ciudad a la que está asociada la tarjeta. La informacion de los diferentes códigos y sus ciudades pueden encontrarse en el mapa.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+¿Encontraste un error de traducción? Ayuda a mejorar el juego en GitHub.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+No cerrar el juego durante las pantallas de carga
+>>>

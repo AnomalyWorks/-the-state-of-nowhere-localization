@@ -7764,3 +7764,32 @@ Kod miasta
 <<<
 Ten Kod przedstawia miasto, z którym powiązana jest karta. Informacje o różnych kodach i ich miastach można znaleźć na mapie.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Znaleziono błąd w tłumaczeniu? Pomóż ulepszyć grę na GitHubie.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Nie zamykaj gry podczas ekranów ładowania
+>>>

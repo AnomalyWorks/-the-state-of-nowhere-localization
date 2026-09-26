@@ -7764,3 +7764,32 @@ Stadtcode
 <<<
 Dieser Code steht für die Stadt, der die Karte zugeordnet ist. Die Informationen zu den verschiedenen Codes und ihren Städten können auf der Karte gefunden werden.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Übersetzungsfehler gefunden? Hilf mit, das Spiel auf GitHub zu verbessern.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Schließe das Spiel während der Ladebildschirme nicht
+>>>

@@ -7764,3 +7764,32 @@ Easy Fast Cash
 <<<
 此代碼表示卡牌關聯的城市。不同代碼及其城市的資訊可在地圖上找到。
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+發現了翻譯錯誤？ 歡迎在 GitHub 上協助改善遊戲。
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+載入畫面期間請勿關閉遊戲
+>>>

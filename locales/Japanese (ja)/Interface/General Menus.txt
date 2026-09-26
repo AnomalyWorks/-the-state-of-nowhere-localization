@@ -7764,3 +7764,32 @@ Easy Fast Cash
 <<<
 このコードはカードに関連する都市を表します。異なるコードとその都市に関する情報は地図で確認できます.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+翻訳ミスを見つけましたか？ GitHubでゲームの改善にご協力ください。
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ロード画面中はゲームを終了しないでください
+>>>

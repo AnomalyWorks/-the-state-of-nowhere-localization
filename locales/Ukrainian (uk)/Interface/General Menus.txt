@@ -7764,3 +7764,32 @@ Easy Fast Cash
 <<<
 Цей код представляє місто, до якого прив'язана картка. Інформацію про різні коди та їхні міста можна знайти на карті.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Знайшли помилку перекладу? Допоможіть покращити гру на GitHub.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Не закривайте гру під час екранів завантаження
+>>>

@@ -7764,3 +7764,32 @@ Cod de oraș
 <<<
 Acest Cod reprezintă orașul cu care este asociat cardul. Informațiile despre diferitele coduri și orașele lor pot fi găsite pe hartă.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ai găsit o eroare de traducere? Ajută la îmbunătățirea jocului pe GitHub.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Nu închide jocul în timpul ecranelor de încărcare
+>>>

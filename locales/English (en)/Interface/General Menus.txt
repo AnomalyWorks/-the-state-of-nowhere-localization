@@ -7504,3 +7504,32 @@ City Code
 <<<
 This code represents the city associated with the card. Information about the different codes and their cities can be found on the map.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [SPANISH]
+# ¿Encontraste un error de traducción? Ayuda a mejorar el juego en GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Found a translation error? Help improve the game on GitHub.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [SPANISH]
+# No cerrar el juego durante las pantallas de carga
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Do not close the game during loading screens
+>>>

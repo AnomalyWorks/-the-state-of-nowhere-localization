@@ -7764,3 +7764,32 @@ Easy Fast Cash
 <<<
 Bu Kod, kartın ilişkili olduğu şehri temsil eder. Farklı kodlar ve şehirleri hakkındaki bilgiler haritada bulunabilir.
 >>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#468
+
+# [ENGLISH]
+# Found a translation error? Help improve the game on GitHub.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Bir çeviri hatası mı buldun? Oyunu GitHub'da geliştirmeye yardım et.
+>>>
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#469
+
+# [ENGLISH]
+# Do not close the game during loading screens
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Yükleme ekranları sırasında oyunu kapatma
+>>>
